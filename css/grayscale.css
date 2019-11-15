@@ -7,6 +7,7 @@
 #mainNav {
   min-height: 56px;
   background-color: #fff;
+  font-family:"Roboto Slab";
 }
 
 #mainNav .navbar-toggler {
