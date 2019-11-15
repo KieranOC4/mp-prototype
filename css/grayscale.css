@@ -10,7 +10,7 @@
 }
 
 #mainNav .navbar-toggler {
-  font-style:"Lato";
+  font-family:"Lato";
   font-size: 80%;
   padding: 0.75rem;
   color: #64a19d;
